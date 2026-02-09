@@ -1,5 +1,4 @@
-# DRL-Trading-Project
-Deep Reinforcement Learning for Algorithmic Trading
+# Deep Reinforcement Learning for Algorithmic Trading
 
 ## Overview
 This project implements a **Deep Reinforcement Learning (DRL)** agent for algorithmic trading using historical financial time series data.  
